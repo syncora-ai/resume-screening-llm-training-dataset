@@ -1,9 +1,10 @@
 # Resume Screening & HR Conversations Dataset for LLM Training  
 
-Recruitment and career advisory tools often require sensitive data, which is difficult to access and share. This dataset removes that barrier by providing **synthetic HR conversations and resume screening Q&A**, structured for **LLM training** in JSONL format.  
+Recruitment and career advisory teams in the HR industry often face challenges with sensitive, hard-to-access data. This dataset removes that barrier by providing synthetic HR conversations and resume screening Q&A, structured for LLM training in JSONL format.
 
-It’s designed for developers and researchers who want to build **HR assistants, candidate screening bots, and career guidance tools**—without using real resumes or personal information.  
+It enables HR teams and AI developers to build smarter internal chatbots, automate candidate screening, accelerate onboarding workflows, and create AI-powered career advisory tools, all while keeping data privacy intact. This helps organizations improve efficiency, reduce manual effort, and scale AI-driven HR solutions.
 
+**By Syncora.ai, enabling privacy-safe, high-quality synthetic data for smarter AI.**
 ---
 
 ## ✅ Why This Dataset?
@@ -56,8 +57,14 @@ openai tools fine_tunes.prepare_data -f hr_resume_qna.jsonl
 openai api fine_tunes.create -t "hr_resume_qna.jsonl" -m "gpt-3.5-turbo"
 ```
 
-Explore in a Jupyter Notebook:  
-👉 [**View Notebook**](#) *(coming soon)*
+## 📦 What This Repo Contains
+
+- **HR Resume Screening Dataset** – Synthetic HR conversations in JSONL format, ready for LLM training.  
+  [**Download Dataset**](https://github.com/syncora-ai/resume-screening-llm-training-dataset/blob/main/hr_resume_qna.jsonl)
+
+- **Jupyter Notebook** – Exploration and usage guide for the dataset.  
+  [**Open Notebook**](https://github.com/syncora-ai/resume-screening-llm-training-dataset/blob/main/resumes.ipynb)
+
 
 ---
 
