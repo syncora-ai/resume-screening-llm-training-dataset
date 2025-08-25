@@ -60,7 +60,7 @@ openai api fine_tunes.create -t "hr_resume_qna.jsonl" -m "gpt-3.5-turbo"
 ## 📦 What This Repo Contains
 
 - **HR Resume Screening Dataset** – Synthetic HR conversations in JSONL format, ready for LLM training.  
-  [**Download Dataset**](https://github.com/syncora-ai/resume-screening-llm-training-dataset/blob/main/hr_resume_qna.jsonl)
+  [**Download Dataset**](https://github.com/syncora-ai/resume-screening-llm-training-dataset/blob/main/resumes.jsonl)
 
 - **Jupyter Notebook** – Exploration and usage guide for the dataset.  
   [**Open Notebook**](https://github.com/syncora-ai/resume-screening-llm-training-dataset/blob/main/resumes.ipynb)
