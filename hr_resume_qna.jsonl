@@ -1,3 +1,1 @@
-# Placeholder for the HR Resume Screening Dataset
-# This file will contain JSONL records in the following format:
-# {"messages":[{"role":"system","content":"..."},{"role":"user","content":"..."},{"role":"assistant","content":"..."}]}
+
