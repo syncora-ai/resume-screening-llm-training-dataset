@@ -63,7 +63,7 @@ openai api fine_tunes.create -t "hr_resume_qna.jsonl" -m "gpt-3.5-turbo"
   [**Download Dataset**](https://github.com/syncora-ai/resume-screening-llm-training-dataset/blob/main/resumes.jsonl)
 
 - **Jupyter Notebook** – Exploration and usage guide for the dataset.  
-  [**Open Notebook**](https://github.com/syncora-ai/resume-screening-llm-training-dataset/blob/main/resumes.ipynb)
+  [**Open Notebook**](https://github.com/syncora-ai/resume-screening-llm-training-dataset/blob/main/Resume_Fine_Tuning.ipynb)
 
 
 ---
